@@ -1,11 +1,11 @@
 {
-  "name": "ATS_NITS",
+  "name": "ats_nits",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
     "start": "node src/app.js",
-    "dev":"nodemon src/app.js"
+    "dev": "nodemon src/app.js"
   },
   "keywords": [],
   "author": "",
@@ -22,5 +22,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.6"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jitulteron7/ATS-NITS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jitulteron7/ATS-NITS/issues"
+  },
+  "homepage": "https://github.com/Jitulteron7/ATS-NITS#readme"
 }
